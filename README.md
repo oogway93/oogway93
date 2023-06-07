@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Марк!
 
 ---
 
@@ -36,10 +36,10 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FPyCharm&psig=AOvVaw2yq7yDblLOORMf_BIpeMqd&ust=1686219492266000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjZ4KD3sP8CFQAAAAAdAAAAABAE" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354202%2Fpostman-icon&psig=AOvVaw2gPFqHDdR1NwoXupq79cr_&ust=1686220794516000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIj20438sP8CFQAAAAAdAAAAABAE" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
