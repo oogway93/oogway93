@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году. Я начал пробовать изучать язык Python, долго думал над направлением, но все же решил выбрать веб разработку! Я являюсь самоучкой, занимаюсь каждый день, изучая и углубляясь в новые технологии.
+Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году. Я начал пробовать изучать язык Python, долго думал над направлением, но все же решил выбрать веб разработку! Я самоучка, занимаюсь каждый день, получая удовольствие от изучения новых технологий и IT фич 💻
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -13,7 +13,7 @@
 
 - :seedling: Завершил курсы по веб-разработке на платформе Stepik.
 
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marklemeshinskiy@gmail.com)
+- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marklem.coding@gmail.com)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-mark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/markshiton) -->
 ---
 
@@ -61,6 +61,10 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/oogway93/badges/large)
+
+### 🏆 LeetCode
+[![oogway93's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=oogway93&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 ### ⚙️ GitHub статистика:
 
