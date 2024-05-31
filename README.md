@@ -5,23 +5,23 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году. Я начал пробовать изучать язык Python, долго думал над направлением, но все же решил выбрать веб разработку! Я самоучка, занимаюсь каждый день, получая удовольствие от изучения новых технологий и IT фич 💻
+Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2022 году. Я начал пробовать изучать язык Python, долго думал над направлением, но все же решил выбрать backend-разработку. Я самоучка, занимаюсь каждый день, получая удовольствие от изучения новых технологий и IT фич 💻
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :seedling: Завершил курсы по веб-разработке на платформе Stepik.
+<!-- - :seedling: Завершил курсы по веб-разработке на платформе Stepik. -->
 
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marklem.coding@gmail.com)
 <!-- [![Telegram Badge](https://img.shields.io/badge/-mark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/markshiton) -->
 ---
 
-### 💻 Технологии:
+### 💻 Изученные Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="golang" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp
@@ -29,10 +29,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" title="aiogram" alt="aiogram" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8a31c306355eb532650043bf039d70a7/python-celery.png" title="celery" alt="celery" width="60" height="60"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/1200px-Logo-redis.svg.png" title="redis" alt="redis" width="80" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -41,11 +43,11 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" title="manjaro" alt="manjaro" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
 
 </div>
 
