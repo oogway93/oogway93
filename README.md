@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Марк!
+# Привет, меня зовут oogway93!
 
 ---
 
@@ -13,7 +13,7 @@
 
 <!-- - :seedling: Завершил курсы по веб-разработке на платформе Stepik. -->
 
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marklem.coding@gmail.com)
+<!-- - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marklem.coding@gmail.com)-->
 <!-- [![Telegram Badge](https://img.shields.io/badge/-mark-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/markshiton) -->
 ---
 
